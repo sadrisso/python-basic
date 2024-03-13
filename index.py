@@ -66,9 +66,9 @@ else:
 
 # practice problem one
     
-a = 10
+a = int(input("Enter a number"))
 
 if a%2 == 0:
-    print('Even number')
+    print(a, 'is an Even number')
 else:
-    print('Odd number')
+    print(a, 'is an Odd number')
