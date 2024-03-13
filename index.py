@@ -64,3 +64,11 @@ else:
 
 # logical operator and if elif end
 
+# practice problem one
+    
+a = 10
+
+if(a%2 == 0):
+    print('Even number')
+else:
+    print('Odd number')
